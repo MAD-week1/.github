@@ -1,6 +1,9 @@
 # SpamWise
 
-![제목을-입력해주세요_.pdf](https://github.com/user-attachments/files/18284556/-._.pdf)
+<div align="center">
+  <img src="https://github.com/user-attachments/files/18284556/-._.pdf" alt="SpamWise 이미지" />
+</div>
+
 
 ## 개요
 사용자가 연락처와 사진을 효율적으로 관리하고, 스팸 메시지 예방에 도움을 주는 기능을 제공합니다. 

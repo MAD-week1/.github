@@ -1,8 +1,6 @@
 # SpamWise
+![제목을-입력해주세요_-001](https://github.com/user-attachments/assets/0fdafcf9-f1da-4619-bca5-de7342ffe838)
 
-<div align="center">
-  <img src="https://github.com/user-attachments/files/18284556/-._.pdf" alt="SpamWise 이미지" />
-</div>
 
 
 ## 개요
